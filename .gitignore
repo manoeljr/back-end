@@ -6,6 +6,18 @@ __pycache__/
 # C extensions
 *.so
 
+# Venv
+venv/
+
+# Migrations
+app/migrations/
+
+# PyCharm
+.idea/
+
+# tests
+tests/
+
 # Distribution / packaging
 .Python
 build/
